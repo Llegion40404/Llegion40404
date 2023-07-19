@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alx
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning TS & Python
+- 🌱 I’m currently learning Nuxt & Pinia
 - 📫 How to reach me LLEGION40404@gmail.com
